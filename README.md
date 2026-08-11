@@ -1,4 +1,4 @@
-# 🛡️ Cyber-Sentinel
+#  Cyber-Sentinel
 
 ## A Portable ESP32-Based Rogue Access Point Detector and Lightweight Honeypot
 
@@ -8,11 +8,11 @@ The system collects information such as SSID, BSSID, RSSI, channel, and encrypti
 
 The project also presents a conceptual extension toward a lightweight honeypot architecture using the ESP32 together with a companion single-board computer.
 
-> ⚠️ **Disclaimer:** This project is intended for cybersecurity education, research, and authorized wireless security testing only. Do not use it to monitor or interfere with networks without proper authorization.
+>  **Disclaimer:** This project is intended for cybersecurity education, research, and authorized wireless security testing only. Do not use it to monitor or interfere with networks without proper authorization.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The main objectives of Cyber-Sentinel are:
 
@@ -27,7 +27,7 @@ These objectives are based on the project report. :contentReference[oaicite:1]{i
 
 ---
 
-## 🔍 How It Works
+##  How It Works
 
 Cyber-Sentinel follows this basic workflow:
 
